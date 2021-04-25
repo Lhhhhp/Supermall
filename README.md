@@ -17,3 +17,4 @@ npm run serve
 npm run build
 ```
 
+如果要看效果图，再WXSupermall2的README里
